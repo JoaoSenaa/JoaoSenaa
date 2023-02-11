@@ -1,3 +1,5 @@
+## Bem-vindo(a) ao meu perfil 😁
+
 <div>
   <a href="https://github.com/JoaoSenaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSenaa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
